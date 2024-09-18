@@ -58,3 +58,6 @@
 // let word = "программирование";
 // let int1 = Sum(word);
 // console.log(int1)
+
+
+
